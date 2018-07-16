@@ -1,0 +1,15 @@
+{
+    "debug": true,
+    "http": {
+        "host": "0.0.0.0",
+        "port": 4000,
+        "token": "63113dd4-3943-4442-a7a2-f33fec994c77"
+    },
+    "smtp": {
+        "addr": "smtp.exmail.qq.com",
+        "port": 465,
+        "username": "yandou@wzdai.com",
+        "password": "Yxnhuiyideshiyan1",
+        "from": "yandou@wzdai.com"
+    }
+}
