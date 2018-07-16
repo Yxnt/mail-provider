@@ -8,8 +8,8 @@
     "smtp": {
         "addr": "smtp.exmail.qq.com",
         "port": 465,
-        "username": "yandou@wzdai.com",
-        "password": "Yxnhuiyideshiyan1",
-        "from": "yandou@wzdai.com"
+        "username": "",
+        "password": "",
+        "from": ""
     }
 }
